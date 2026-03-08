@@ -1,3 +1,4 @@
+import { API_BASE_URL } from "../config";
 import { logger } from "./logger";
 import type {
   AuthRequest,
@@ -8,7 +9,7 @@ import type {
   SendMessageResponse,
 } from "../types";
 
-const BASE_URL = "http://localhost:3001";
+const BASE_URL = API_BASE_URL;
 
 async function request<T>(
   endpoint: string,
