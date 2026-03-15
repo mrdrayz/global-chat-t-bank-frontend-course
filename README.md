@@ -167,3 +167,10 @@ npm test
 ### Страница глобального чата
 
 <img width="1521" height="942" alt="image" src="https://github.com/mrdrayz/global-chat/blob/main/react-state-management/demo-images/chat-page.png" />
+
+
+
+P.S. Данное приложение является выполненным домашним заданием курса Т-Академии от Т-Банка раздела React State Management. 
+
+
+
